@@ -46,4 +46,5 @@ Application runs at: http://localhost:5173
 Sreeja Chigurla
 
 ## Output
-"C:\Users\Sreeja\OneDrive\Pictures\Screenshots\Screenshot 2026-06-25 143115.png"
+<img width="1916" height="957" alt="Screenshot 2026-06-25 143115" src="https://github.com/user-attachments/assets/87cf9db0-1adb-4cc0-9b7d-27c102e65359" />
+
